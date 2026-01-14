@@ -49,18 +49,6 @@ Hands-on projects bridging hardware and software: sensor integration, data pipel
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadek-Dhokar&show_icons=true&theme=dark)](https://github.com/Sadek-Dhokar)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek-Dhokar&layout=compact&theme=dark)](https://github.com/Sadek-Dhokar)
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] Complete 6+ hands-on IoT projects with ESP32
