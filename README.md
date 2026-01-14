@@ -49,13 +49,13 @@ Hands-on projects bridging hardware and software: sensor integration, data pipel
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sadek-Dhokar&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadek-Dhokar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadek-Dhokar&show_icons=true&theme=dark)](https://github.com/Sadek-Dhokar)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek-Dhokar&layout=compact&theme=dark)](https://github.com/Sadek-Dhokar)
 
 </div>
 
