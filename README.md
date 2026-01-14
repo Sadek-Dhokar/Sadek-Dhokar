@@ -49,13 +49,31 @@ Hands-on projects bridging hardware and software: sensor integration, data pipel
 
 ---
 
-## 🎯 2026 Goals
+## 🚀 Current Focus
+
+**Building:** Industrial IoT projects with ESP32 and predictive maintenance systems  
+**Learning:** Embedded systems, microcontrollers, sensor integration, edge ML  
+**Target:** 6+ portfolio projects + summer internship by mid-2026
+
+---
+
+## 📂 Recent Activity
+
+- ✅ Created Industrial IoT & ML Portfolio structure
+- ✅ Completed Smart Sensor Data Analyzer (Predictive Maintenance)
+- 🔄 Planning ESP32 Weather Station with cloud integration
+- 🔄 Advancing through DataCamp ML Engineer Track
+
+---
+
+## 🎯 Goals (2026)
 
 - [ ] Complete 6+ hands-on IoT projects with ESP32
 - [ ] Finish DataCamp ML Engineer Track (7 more courses)
 - [ ] Deploy first edge ML model on microcontroller
 - [ ] Secure summer internship in industrial automation or embedded systems
-- [ ] Build strong GitHub portfolio for future opportunities
+- [ ] Build strong GitHub portfolio showcasing hardware + software integration
+- [ ] Complete Semester 2-4 with strong grades, choose SII specialization
 
 ---
 
@@ -76,6 +94,3 @@ Hands-on projects bridging hardware and software: sensor integration, data pipel
 *"Building the bridge between hardware and intelligence"*
 
 </div>
-```
-
----
