@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Industrial+Computer+Engineering+Student;Building+Smart+Systems+%7C+IoT+%2B+ML;Hardware+%2B+Software+Integration;Future+Field+Application+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Industrial+Computer+Engineering+Student;Machine+Learning+%7C+AI+%7C+Automation;Building+Smart+Industrial+Systems)
 
 </div>
 
@@ -11,79 +11,72 @@
 ## 🎓 About Me
 
 🏫 **Industrial Computer Engineering (GII)** @ ENET'Com, University of Sfax  
-📚 **Currently:** Semester 2 | **Target Specialization:** Intelligent & Interconnected Systems (SII)  
-🏭 Building intelligent systems where **hardware meets software**  
-🚀 Career path: **Embedded Systems → Field Application Engineering → Technical Consulting**
+💻 **Strong Python foundation** from IPEIM preparatory program  
+🤖 **Developing ML expertise** through systematic learning and hands-on projects  
+🎯 **Goal:** Build companies at the intersection of AI and industrial systems
 
 ---
 
-## 🔭 What I'm Working On
+## 🛠️ Technical Skills
 
-- 🏭 **Industrial IoT portfolio** with ESP32 and predictive maintenance systems
-- 🤖 Learning **embedded systems**, **microcontrollers**, and **sensor integration**
-- 📊 Completing **DataCamp ML Engineer Track** (5/12 courses + 2 projects done)
-- 🌱 Building foundation in **Java OOP**, **Python**, **databases**, and **power electronics**
+### Programming & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
+**Current learning:** DataCamp ML Engineer track  
+**Completed:** Intro to Python, Intermediate Python, ML Foundations
+
+### Industrial & Embedded Systems
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+**Learning:** ESP32 microcontrollers, C/C++, IoT integration, sensor systems
 
 ---
 
-## 🛠️ Tech Stack
-```text
-Languages:   Python, C, Java
-Embedded:    ESP32, Arduino, Microcontrollers (STM32 upcoming)
-ML/Data:     Pandas, NumPy, Matplotlib, Scikit-learn
-Industrial:  Sensors, PLCs (upcoming), Control Systems
-Tools:       Git, Linux, VS Code
-```
-
----
-
-## 📂 Featured Work
+## 📂 Portfolio
 
 ### 🏆 [Industrial IoT & ML Portfolio](https://github.com/Sadek-Dhokar/Industrial-IoT-ML-Portfolio)
-Hands-on projects bridging hardware and software: sensor integration, data pipelines, edge ML, and industrial automation.
 
-**Current Projects:**
-- ✅ Smart Sensor Data Analyzer (Predictive Maintenance Pipeline)
-- 🔄 IoT Weather Station (ESP32 + Cloud Integration) - *Coming Soon*
-- 📅 Motion Detection System (Event-driven Embedded) - *Planned*
+**Recent Work:**
+- ✅ **Smart Sensor Data Analyzer** - Predictive maintenance pipeline with sensor simulation, statistical analysis, and anomaly detection (Python, Pandas, Matplotlib)
 
 ---
 
-## 🚀 Current Focus
+## 📚 Education & Learning
 
-**Building:** Industrial IoT projects with ESP32 and predictive maintenance systems  
-**Learning:** Embedded systems, microcontrollers, sensor integration, edge ML  
-**Target:** 6+ portfolio projects + summer internship by mid-2026
+**Industrial Computer Engineering @ ENET'Com**
+- Current: Semester 2, GII program
+- Target: Intelligent & Interconnected Systems (SII) specialization
 
----
-
-## 📂 Recent Activity
-
-- ✅ Created Industrial IoT & ML Portfolio structure
-- ✅ Completed Smart Sensor Data Analyzer (Predictive Maintenance)
-- 🔄 Planning ESP32 Weather Station with cloud integration
-- 🔄 Advancing through DataCamp ML Engineer Track
+**Self-Directed Learning:**
+- DataCamp: Machine Learning Engineer track (in progress)
+- ESP32 and embedded systems (hands-on practice)
 
 ---
 
-## 🎯 Goals (2026)
+## 🎯 Direction
 
-- [ ] Complete 6+ hands-on IoT projects with ESP32
-- [ ] Finish DataCamp ML Engineer Track (7 more courses)
-- [ ] Deploy first edge ML model on microcontroller
-- [ ] Secure summer internship in industrial automation or embedded systems
-- [ ] Build strong GitHub portfolio showcasing hardware + software integration
-- [ ] Complete Semester 2-4 with strong grades, choose SII specialization
+Building technical foundation in machine learning and industrial systems with the goal of founding companies that create intelligent solutions for real industrial problems.
+
+Currently focused on:
+- Deepening ML expertise through structured learning
+- Developing embedded systems skills (ESP32, IoT)
+- Understanding industrial automation applications
+- Building portfolio of practical projects
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadek-dhokar-318342326)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhokarsadek.enetcom@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadek-Dhokar)
 
 </div>
 
@@ -91,6 +84,6 @@ Hands-on projects bridging hardware and software: sensor integration, data pipel
 
 <div align="center">
 
-*"Building the bridge between hardware and intelligence"*
+*Building the foundation to create intelligent industrial systems*
 
 </div>
