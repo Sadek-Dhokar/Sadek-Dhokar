@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Industrial+Computer+Engineering+Student;Machine+Learning+%7C+AI+%7C+Automation;Building+Smart+Industrial+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Industrial+Computer+Engineering+Student;Machine+Learning+%7C+AI+%7C+MLOps;Business+Development+%40+Junior+Entreprise;Building+Smart+Industrial+Systems)
 
 </div>
 
@@ -11,30 +11,48 @@
 ## 🎓 About Me
 
 🏫 **Industrial Computer Engineering (GII)** @ ENET'Com, University of Sfax  
-💻 **Strong Python foundation** from IPEIM preparatory program  
-🤖 **Developing ML expertise** through systematic learning and hands-on projects  
+💼 **Business Development & Project Execution Associate** @ ENET'Com Junior Entreprise  
+💻 **Strong Python & ML foundation** - Completed comprehensive DataCamp ML curriculum  
 🎯 **Goal:** Build companies at the intersection of AI and industrial systems
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Machine Learning
+### Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-**Current learning:** DataCamp ML Engineer track  
-**Completed:** Intro to Python, Intermediate Python, ML Foundations
+**Completed Training:**
+- Supervised Learning (classification, regression, pipelines, evaluation)
+- Unsupervised Learning (clustering, PCA, t-SNE, NMF)
+- Deep Learning with PyTorch (neural networks, optimization)
+- Reinforcement Learning (Q-learning, MDPs)
+- MLOps (MLflow, Docker, deployment concepts)
 
-### Industrial & Embedded Systems
+### Embedded & Systems
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Learning:** ESP32 microcontrollers, C/C++, IoT integration, sensor systems
+**Skills:**
+- C Programming (Cisco certified - pointers, memory management, embedded C)
+- ESP32 microcontrollers (currently learning)
+- Shell/Linux command line
+- Docker containerization
+
+---
+
+## 💼 Experience
+
+**Business Development & Project Execution Associate**  
+ENET'Com Junior Entreprise | Sep 2025 - Present
+
+Contributing to client prospecting, partner relationship management, and project coordination from requirements to delivery. Bridging business development with technical project execution.
 
 ---
 
@@ -43,31 +61,34 @@
 ### 🏆 [Industrial IoT & ML Portfolio](https://github.com/Sadek-Dhokar/Industrial-IoT-ML-Portfolio)
 
 **Recent Work:**
-- ✅ **Smart Sensor Data Analyzer** - Predictive maintenance pipeline with sensor simulation, statistical analysis, and anomaly detection (Python, Pandas, Matplotlib)
+- ✅ **Smart Sensor Data Analyzer** - Predictive maintenance pipeline with sensor simulation, statistical analysis, and anomaly detection
+
+**In Progress:**
+- Applying ML to industrial sensor data through hands-on projects
 
 ---
 
-## 📚 Education & Learning
+## 🎓 Certifications & Training
 
-**Industrial Computer Engineering @ ENET'Com**
-- Current: Semester 2, GII program
-- Target: Intelligent & Interconnected Systems (SII) specialization
+**DataCamp (11 courses):**
+- Machine Learning Fundamentals, Supervised/Unsupervised Learning
+- Deep Learning with PyTorch, Reinforcement Learning
+- MLOps Concepts, MLflow, Docker, Shell
 
-**Self-Directed Learning:**
-- DataCamp: Machine Learning Engineer track (in progress)
-- ESP32 and embedded systems (hands-on practice)
+**Cisco Networking Academy:**
+- C Essentials 1 (OpenEDG C++ Institute)
+
+**Professional Development:**
+- "A Step to Entrepreneurship 13.0" seminar (Business Model Canvas, AI & Future of Work, Public Speaking)
 
 ---
 
-## 🎯 Direction
+## 🎯 Current Focus
 
-Building technical foundation in machine learning and industrial systems with the goal of founding companies that create intelligent solutions for real industrial problems.
-
-Currently focused on:
-- Deepening ML expertise through structured learning
-- Developing embedded systems skills (ESP32, IoT)
-- Understanding industrial automation applications
-- Building portfolio of practical projects
+- Applying ML knowledge to practical industrial problems
+- Developing business skills through Junior Entreprise
+- Learning embedded systems (ESP32, C/C++, IoT)
+- Building foundation for entrepreneurship in AI-enabled industrial systems
 
 ---
 
@@ -84,6 +105,6 @@ Currently focused on:
 
 <div align="center">
 
-*Building the foundation to create intelligent industrial systems*
+*Building the business and technical foundation to create intelligent industrial systems*
 
 </div>
