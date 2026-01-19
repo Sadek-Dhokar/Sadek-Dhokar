@@ -71,7 +71,7 @@ Client prospecting, partner relationship management, and project coordination fr
 
 **Embedded Systems:**
 - Cisco/OpenEDG: C Essentials 1
-- CR ENET'Com: Embedded Systems Training
+- Club Robotique ENET'Com: Embedded Systems Training
 - Aeromodlisme ENET'Com: Arduino & PIC Microcontroller Training
 
 **Professional Development:**
