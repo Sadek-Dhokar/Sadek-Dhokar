@@ -79,13 +79,9 @@ Directing the Agile execution of the "Séminaire Interne 13.0" platform. Respons
 
 ## 🎓 Certifications & Training
 
-**Machine Learning Engineer Track — DataCamp:**
-
-- Progress: **100% Complete**
-- [Machine Learning Engineer Track (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/track/367f8c4b264564f1c2218fed12a44c3340d36766)
-
 **DataCamp:**
 
+- [Machine Learning Engineer Track (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/track/367f8c4b264564f1c2218fed12a44c3340d36766)
 - [CI/CD for Machine Learning (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/fd145bb648b574f5ea5bc341d39599ac171d99e9)
 - [Machine Learning in Production in Python (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/track/769ed51994d74fcbc85c401c724ad155bde82644)
 - [Monitoring Machine Learning in Python (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/2e5c59addd01866b2a78e7b748b0f020312e7432)
