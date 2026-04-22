@@ -81,15 +81,16 @@ Directing the Agile execution of the "Séminaire Interne 13.0" platform. Respons
 
 **Machine Learning Engineer Track — DataCamp:**
 
-- Progress: **66% complete**
-- Remaining:
-  - Course 10: Introduction to Data Versioning with DVC (0%)
-  - Course 11: Monitoring Machine Learning Concepts (0%)
-  - Course 12: Monitoring Machine Learning in Python (0%)
-  - Course 14: CI/CD for Machine Learning (0%)
+- Progress: **100% Complete**
+- [Machine Learning Engineer Track (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/track/367f8c4b264564f1c2218fed12a44c3340d36766)
 
 **DataCamp:**
 
+- [CI/CD for Machine Learning (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/fd145bb648b574f5ea5bc341d39599ac171d99e9)
+- [Machine Learning in Production in Python (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/track/769ed51994d74fcbc85c401c724ad155bde82644)
+- [Monitoring Machine Learning in Python (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/2e5c59addd01866b2a78e7b748b0f020312e7432)
+- [Monitoring Machine Learning Concepts (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/77100dfcbc2da9b3c348220f38e778f25a2563b5)
+- [Introduction to Data Versioning with DVC (Apr 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/89174399ca11ce1d9dd7d7d21a6e4c3ad4dcef0d)
 - [Introduction to Data Quality with Great Expectations (Mar 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/f72979b6390076c65eb8b1031cca2f86c0317eae)
 - [ETL and ELT in Python (Mar 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/bd125e554f59583a2e84768190accbcd85981893)
 - [MLOps Deployment and Life Cycling (Feb 2026)](https://www.datacamp.com/completed/statement-of-accomplishment/course/d0f0fc823c10b6a6921ba6f05e0b07fa341d9494)
