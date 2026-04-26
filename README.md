@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Industrial+ML+%26+Control+Systems+Student+%40+ENET'Com;Deep+Reinforcement+Learning+•+Edge+AI;Scrum+Master+%40+ECJE)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Industrial+ML+%26+Control+Systems+Engineer+%40+ENET'Com;Deep+Reinforcement+Learning+•+Edge+AI;Scrum+Master+%40+ECJE)
 
 </div>
 
@@ -10,12 +10,12 @@
 
 ## Executive Summary
 
-**Industrial ML & Control Systems Student** | National School of Electronics and Telecommunications of Sfax (ENET'Com)  
+**Industrial ML & Control Systems Engineer** | National School of Electronics and Telecommunications of Sfax (ENET'Com)  
 **Scrum Master & Business Development** | ENET'Com Junior Entreprise  
 **Core Expertise:** Machine Learning, Deep Reinforcement Learning, Applied Control Systems, and Industrial Automation  
 **Vision:** Transitioning advanced artificial intelligence and theoretical control systems into robust, deterministic technologies optimizing complex industrial environments.
 
-I am an engineering student actively developing high-level predictive maintenance software, intelligent control algorithms, and smart grid simulators. I am seeking opportunities to operationalize these applications via modern MLOps pipelines.
+I am an engineer actively developing high-level predictive maintenance software, intelligent control algorithms, and smart grid simulators. I am seeking opportunities to operationalize these applications via modern MLOps pipelines.
 
 ---
 
