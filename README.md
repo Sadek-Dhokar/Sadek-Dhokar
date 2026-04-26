@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Industrial+ML+%26+Control+Systems+Engineer+%40+ENET'Com;Deep+Reinforcement+Learning+•+Edge+AI;Scrum+Master+%40+ECJE)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Industrial+ML+%26+Control+Systems+Engineer+%40+ENET'Com;Deep+Reinforcement+Learning+•+Edge+AI;Scrum+Master)
 
 </div>
 
