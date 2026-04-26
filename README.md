@@ -10,8 +10,8 @@
 
 ## Executive Summary
 
-**Industrial ML & Control Systems Engineer** | National School of Electronics and Telecommunications of Sfax (ENET'Com)  
-**Scrum Master & Business Development** | ENET'Com Junior Entreprise  
+**Industrial ML & Control Systems Engineer** @ National School of Electronics and Telecommunications of Sfax (ENET'Com)  
+**Scrum Master & Business Development** @ ENET'Com Junior Entreprise  
 **Core Expertise:** Machine Learning, Deep Reinforcement Learning, Applied Control Systems, and Industrial Automation  
 **Vision:** Transitioning advanced artificial intelligence and theoretical control systems into robust, deterministic technologies optimizing complex industrial environments.
 
