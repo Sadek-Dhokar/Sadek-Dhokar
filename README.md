@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Industrial+Computer+Engineering+@+ENET�Com;Machine+Learning+-+AI+Control+-+IoT;Scrum+Master+@+ENET�Com+Junior+Entreprise;Bridging+Advanced+AI+with+Industrial+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Industrial+ML+%26+Control+Systems+Student+%40+ENET'Com;Deep+Reinforcement+Learning+•+Edge+AI;Scrum+Master+%40+ECJE)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-**Industrial Computer Engineering (GII)** | National School of Electronics and Telecommunications of Sfax (ENET'Com)  
+**Industrial ML & Control Systems Student** | National School of Electronics and Telecommunications of Sfax (ENET'Com)  
 **Scrum Master & Business Development** | ENET'Com Junior Entreprise  
 **Core Expertise:** Machine Learning, Deep Reinforcement Learning, Applied Control Systems, and Industrial Automation  
 **Vision:** Transitioning advanced artificial intelligence and theoretical control systems into robust, deterministic technologies optimizing complex industrial environments.
